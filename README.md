@@ -7,6 +7,7 @@ I'm a first year student of Computer Technologies Department in ITMO University
 - **Python** - advanced VK, tg bots; useful algorithms for Disckrete math
 - **C/C++** - loading in progress...
 - **Clojure**, **Prolog** - loading in progress...
+- **verilog** - basic knowledge of processes, ability to write microarchitectures and modules
 
 Other skills:
 - git usage
