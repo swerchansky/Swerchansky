@@ -11,4 +11,4 @@ I'm a first year student of Computer Technologies Department in ITMO University
 Other skills:
 - git usage
 - bash (and other similar terminal script languages) and linux/macOs/windows
-- english level B1+, excellent for communicating, reading docs and searching info
+- english level B2, excellent for communicating, reading docs and searching info
