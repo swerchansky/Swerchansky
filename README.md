@@ -12,3 +12,4 @@ Other skills:
 - git usage
 - bash (and other similar terminal script languages) and linux/macOs/windows
 - english level B2, excellent for communicating, reading docs and searching info
+- good knowledge of advanced algorithms (and, of course, light and medium)
