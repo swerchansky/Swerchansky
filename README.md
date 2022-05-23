@@ -3,10 +3,10 @@
 I'm a first year student of Computer Technologies Department in ITMO University
 
 ### Technology stack:
-- **Java** - practiced development on Java OOP at university.
+- **Java** - practiced development on Java OOP at university, generics and etc.
 - **Python** - advanced VK, tg bots; useful algorithms for Disckrete math.
-- **C/C++** - basic knowledge of C, C++ in progress...
-- **Clojure**, **Prolog** - loading in progress...
+- **C/C++** - basic knowledge of C, C++.
+- **Clojure**, **Prolog** - Tried my hand at writing small programs with different paradigms.
 - **verilog** - basic knowledge of processes, ability to write microarchitectures and modules.
 - **JavaScript** - basic knowledge of function usage.
 
