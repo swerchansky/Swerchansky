@@ -2,7 +2,7 @@
 
 I'm a second year student of Computer Technologies Department in ITMO University
 
-### Technology stack:
+## Technology stack:
 - `Java, kotlin, JavaScript` - Main skill. I have experience in commercial development in the banking sector as a full-stack developer.
 - `Python` - advanced VK, tg bots; useful algorithms for Disckrete math.
 - `C/C++` - basic knowledge of C, C++.
@@ -10,17 +10,17 @@ I'm a second year student of Computer Technologies Department in ITMO University
 - `verilog` - basic knowledge of processes, ability to write microarchitectures and modules.
 - `JavaScript` - basic knowledge of function usage.
 
-### Development tools:
-## development:  
+## Development tools:
+### development:  
 Play Framework, Ktor, Koin, Exposed
-## testing:
+### testing:
 JUnit 5, Mockito, Selenide
-## DataBase:
+### DataBase:
 Oracle, PostgreSQL, H2
-## additional:
+### additional:
 Docker, Jenkins, Swagger, Liquibase
 
-Other skills:
+## Other skills:
 - git usage.
 - bash (and other similar terminal script languages).
 - english level B2, excellent for communicating, reading docs and searching info.
