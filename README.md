@@ -8,7 +8,6 @@ I'm a second year student of Computer Technologies Department in ITMO University
 - `C/C++` - basic knowledge of C, C++.
 - `Clojure`, `Prolog` - Tried my hand at writing small programs with different paradigms.
 - `verilog` - basic knowledge of processes, ability to write microarchitectures and modules.
-- `JavaScript` - basic knowledge of function usage.
 
 ## Development tools:
 ### development:  
