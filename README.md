@@ -13,7 +13,7 @@ I'm a second year student of Computer Technologies Department in ITMO University
 ### development:  
 Play Framework, Ktor, Koin, Exposed
 ### testing:
-JUnit 5, Mockito, Selenide
+JUnit 4/5, Mockito, Selenide
 ### DataBase:
 Oracle, PostgreSQL, H2
 ### additional:
