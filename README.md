@@ -25,4 +25,4 @@ Docker, Jenkins, Swagger, Liquibase
 - english level B2, excellent for communicating, reading docs and searching info.
 - good knowledge of advanced algorithms (and, of course, light and medium).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swerchansky&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swerchansky&hide=contribs,prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
