@@ -10,7 +10,7 @@ I'm a third year student of Computer Technologies Department in ITMO University
 - `verilog` - basic knowledge of processes, ability to write microarchitectures and modules.
 
 ## Experience:
-- `09.23 - nowadays` - junior developer at "Yandex" mobile app Edadeal and Lessy
+- `09.23 - 11.24` - junior developer at "Yandex" mobile app Edadeal and Lessy
 - `06.23 - 09.23`: intern android developer at "Yandex" mobile browser
 - `07.22 - 08.22`: intern full-stack developer at "LiptSoft" (commercial development in the banking sector as a full-stack developer) 
 
